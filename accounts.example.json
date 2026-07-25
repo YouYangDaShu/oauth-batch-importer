@@ -1,0 +1,10 @@
+[
+  {
+    "email": "yourname@outlook.com",
+    "password": "your-password"
+  },
+  {
+    "email": "another@outlook.com",
+    "password": "another-password"
+  }
+]
